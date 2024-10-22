@@ -1,3 +1,3 @@
 # 🚨 This repository moved!
 
-You can find it here: https://github.com/typeduke/spring-boot-sample-app
+You can find it here: https://github.com/pygumby/spring-boot-sample-app
